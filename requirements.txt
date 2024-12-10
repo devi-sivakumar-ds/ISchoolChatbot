@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+langchain
+langchain_google_genai
+langchain_core
+chromadb
+flask
